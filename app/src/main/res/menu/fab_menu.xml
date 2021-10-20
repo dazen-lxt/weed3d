@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/connectionMenu"
+        android:title="@string/connection"
+        android:icon="@drawable/ic_baseline_connect_without_contact_24" />
+
+    <item android:id="@+id/farmsMenu"
+        android:title="@string/farms"
+        android:icon="@drawable/ic_baseline_videocam_24" />
+
+    <item android:id="@+id/historicMenu"
+        android:title="@string/historic"
+        android:icon="@drawable/ic_baseline_history_24" />
+
+    <item android:id="@+id/settingMenu"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_baseline_settings_24" />
+</menu>

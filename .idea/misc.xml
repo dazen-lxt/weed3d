@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/animated_minus.xml" value="0.3671875" />
+        <entry key="app/src/main/res/drawable/animated_plus.xml" value="0.3671875" />
+        <entry key="app/src/main/res/drawable/button_disabled.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/dialog_bg.xml" value="0.36770833333333336" />
+        <entry key="app/src/main/res/drawable/edit_text_bg.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/fab_background.xml" value="0.3671875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.36770833333333336" />
+        <entry key="app/src/main/res/drawable/ic_cloud.xml" value="0.36770833333333336" />
+        <entry key="app/src/main/res/drawable/ic_clouds_and_sun.xml" value="0.36770833333333336" />
+        <entry key="app/src/main/res/drawable/ic_sun.xml" value="0.36770833333333336" />
+        <entry key="app/src/main/res/drawable/minus.xml" value="0.3671875" />
+        <entry key="app/src/main/res/drawable/plus.xml" value="0.3671875" />
+        <entry key="app/src/main/res/drawable/primary_button_bg.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/primary_button_default.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/primary_button_pressed.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/secondary_button_bg.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/secondary_button_default.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/secondary_button_pressed.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2536231884057971" />
+        <entry key="app/src/main/res/layout/content_home.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/dialog_conditions.xml" value="0.3255718954248366" />
+        <entry key="app/src/main/res/layout/dialog_confirmation.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/dialog_farm_info.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/dialog_farms.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/dialog_new_farm.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/dialog_type.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fab.xml" value="0.2536231884057971" />
+        <entry key="app/src/main/res/layout/fragment_camera.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_farms.xml" value="0.3255718954248366" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.23505434782608695" />
+        <entry key="app/src/main/res/layout/fragment_historic.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.21200980392156862" />
+        <entry key="app/src/main/res/layout/item_farm.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_farm_info.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/item_no_sync.xml" value="0.375" />
+        <entry key="app/src/main/res/menu/fab_menu.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
